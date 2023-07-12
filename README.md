@@ -1,6 +1,6 @@
 <h1> :computer: Hi Everyone! Welcome to Hemang Gawali's GitHub Profile</h1>
 
-<p align="center">Data science enthusiast currently pursuing<br> <b>Bachelor's in engineering in Information Technology domain at Institute of Engineering & Technology- DAVV, Indore</b> <br>and a person who is desired to gain knowledge and develop skills, in order to explore my capabilities and potential and draw out the best version of myself.
+<p align="center">Data science enthusiast who is desired to gain knowledge and develop skills, in order to explore my capabilities and potential and draw out the best version of myself.
 </p>
 <hr>
 
