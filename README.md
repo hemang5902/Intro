@@ -3,6 +3,7 @@
 <p align="center">Data science enthusiast currently pursuing<br> <b>Bachelor's in engineering in Information Technology domain at Institute of Engineering & Technology- DAVV, Indore</b> <br>and a person who is desired to gain knowledge and develop skills, in order to explore my capabilities and potential and draw out the best version of myself.
 </p>
 <hr>
+
 - 💻 I'm currently pursuing **Bachelor's in Engineering in Information Technology** at **Institute of Engineering & Technology, DAVV, Indore**
 
 - 🌱 I’m currently **Data Science Summer Intern at Diginique Techlab**
