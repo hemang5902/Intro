@@ -4,6 +4,7 @@
 </p>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemang5902&label=Profile%20views&color=0e75b6&style=flat" alt="hemang5902" /> </p>
+
 - 💻 I'm currently pursuing **Bachelor's in Engineering in Information Technology** at **Institute of Engineering & Technology, DAVV, Indore**
 
 - 🌱 I’m currently **Data Science Summer Intern at Diginique Techlab**
